@@ -10,4 +10,4 @@ This project aims to revolutionize gaming by providing AI-powered features like 
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo-url/xbox-moments.git
+   git clone https://github.com/anwesh-microsoft/XBOX-Moments
